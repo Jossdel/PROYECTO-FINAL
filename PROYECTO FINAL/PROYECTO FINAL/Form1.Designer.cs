@@ -51,49 +51,49 @@
             this.salirToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(2048, 45);
+            this.menuStrip1.Size = new System.Drawing.Size(2424, 45);
             this.menuStrip1.TabIndex = 1;
             this.menuStrip1.Text = "menuStrip1";
             // 
             // mostrarProductosToolStripMenuItem
             // 
             this.mostrarProductosToolStripMenuItem.Name = "mostrarProductosToolStripMenuItem";
-            this.mostrarProductosToolStripMenuItem.Size = new System.Drawing.Size(258, 43);
+            this.mostrarProductosToolStripMenuItem.Size = new System.Drawing.Size(258, 41);
             this.mostrarProductosToolStripMenuItem.Text = "Mostrar productos";
             this.mostrarProductosToolStripMenuItem.Click += new System.EventHandler(this.mostrarProductosToolStripMenuItem_Click);
             // 
             // agregarProductoToolStripMenuItem
             // 
             this.agregarProductoToolStripMenuItem.Name = "agregarProductoToolStripMenuItem";
-            this.agregarProductoToolStripMenuItem.Size = new System.Drawing.Size(261, 43);
+            this.agregarProductoToolStripMenuItem.Size = new System.Drawing.Size(261, 41);
             this.agregarProductoToolStripMenuItem.Text = "Agregar productos";
             this.agregarProductoToolStripMenuItem.Click += new System.EventHandler(this.agregarProductoToolStripMenuItem_Click);
             // 
             // actualizarProductosToolStripMenuItem
             // 
             this.actualizarProductosToolStripMenuItem.Name = "actualizarProductosToolStripMenuItem";
-            this.actualizarProductosToolStripMenuItem.Size = new System.Drawing.Size(282, 43);
+            this.actualizarProductosToolStripMenuItem.Size = new System.Drawing.Size(282, 41);
             this.actualizarProductosToolStripMenuItem.Text = "Actualizar productos";
             this.actualizarProductosToolStripMenuItem.Click += new System.EventHandler(this.actualizarProductosToolStripMenuItem_Click);
             // 
             // eliminarProductoToolStripMenuItem
             // 
             this.eliminarProductoToolStripMenuItem.Name = "eliminarProductoToolStripMenuItem";
-            this.eliminarProductoToolStripMenuItem.Size = new System.Drawing.Size(251, 43);
+            this.eliminarProductoToolStripMenuItem.Size = new System.Drawing.Size(251, 41);
             this.eliminarProductoToolStripMenuItem.Text = "Eliminar producto";
             this.eliminarProductoToolStripMenuItem.Click += new System.EventHandler(this.eliminarProductoToolStripMenuItem_Click);
             // 
             // exportarDatosToolStripMenuItem
             // 
             this.exportarDatosToolStripMenuItem.Name = "exportarDatosToolStripMenuItem";
-            this.exportarDatosToolStripMenuItem.Size = new System.Drawing.Size(211, 43);
+            this.exportarDatosToolStripMenuItem.Size = new System.Drawing.Size(211, 41);
             this.exportarDatosToolStripMenuItem.Text = "Exportar datos";
             this.exportarDatosToolStripMenuItem.Click += new System.EventHandler(this.exportarDatosToolStripMenuItem_Click);
             // 
             // salirToolStripMenuItem
             // 
             this.salirToolStripMenuItem.Name = "salirToolStripMenuItem";
-            this.salirToolStripMenuItem.Size = new System.Drawing.Size(90, 43);
+            this.salirToolStripMenuItem.Size = new System.Drawing.Size(90, 41);
             this.salirToolStripMenuItem.Text = "Salir";
             this.salirToolStripMenuItem.Click += new System.EventHandler(this.salirToolStripMenuItem_Click_1);
             // 
@@ -101,7 +101,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(14F, 29F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(2048, 1265);
+            this.ClientSize = new System.Drawing.Size(2424, 1550);
             this.Controls.Add(this.menuStrip1);
             this.IsMdiContainer = true;
             this.MainMenuStrip = this.menuStrip1;

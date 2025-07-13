@@ -38,7 +38,7 @@
             // 
             this.dgvProductos.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dgvProductos.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvProductos.Location = new System.Drawing.Point(12, 1073);
+            this.dgvProductos.Location = new System.Drawing.Point(12, 700);
             this.dgvProductos.Name = "dgvProductos";
             this.dgvProductos.ReadOnly = true;
             this.dgvProductos.RowHeadersWidth = 92;
@@ -49,7 +49,7 @@
             // 
             // btnCerrar
             // 
-            this.btnCerrar.Location = new System.Drawing.Point(1889, 984);
+            this.btnCerrar.Location = new System.Drawing.Point(1872, 617);
             this.btnCerrar.Name = "btnCerrar";
             this.btnCerrar.Size = new System.Drawing.Size(305, 77);
             this.btnCerrar.TabIndex = 1;
@@ -59,7 +59,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(25, 1032);
+            this.label1.Location = new System.Drawing.Point(12, 658);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(238, 29);
             this.label1.TabIndex = 2;
@@ -69,7 +69,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(14F, 29F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(2249, 1434);
+            this.ClientSize = new System.Drawing.Size(2477, 1279);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnCerrar);
             this.Controls.Add(this.dgvProductos);

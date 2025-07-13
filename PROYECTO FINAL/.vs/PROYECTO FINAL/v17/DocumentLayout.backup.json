@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\isael\\OneDrive\\Desktop\\PROYECTO FINAL\\PROYECTO FINAL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20A3061F-F557-44FB-972A-18D7188F928C}|PROYECTO FINAL\\PROYECTO FINAL.csproj|c:\\users\\isael\\onedrive\\desktop\\proyecto final\\proyecto final\\proyecto final\\mostrarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{20A3061F-F557-44FB-972A-18D7188F928C}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\mostrarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{20A3061F-F557-44FB-972A-18D7188F928C}|PROYECTO FINAL\\PROYECTO FINAL.csproj|c:\\users\\isael\\onedrive\\desktop\\proyecto final\\proyecto final\\proyecto final\\agregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20A3061F-F557-44FB-972A-18D7188F928C}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\agregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20A3061F-F557-44FB-972A-18D7188F928C}|PROYECTO FINAL\\PROYECTO FINAL.csproj|c:\\users\\isael\\onedrive\\desktop\\proyecto final\\proyecto final\\proyecto final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{20A3061F-F557-44FB-972A-18D7188F928C}|PROYECTO FINAL\\PROYECTO FINAL.csproj|c:\\users\\isael\\onedrive\\desktop\\proyecto final\\proyecto final\\proyecto final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20A3061F-F557-44FB-972A-18D7188F928C}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A3061F-F557-44FB-972A-18D7188F928C}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\isael\\OneDrive\\Desktop\\PROYECTO FINAL\\PROYECTO FINAL\\proyecto final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20A3061F-F557-44FB-972A-18D7188F928C}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20A3061F-F557-44FB-972A-18D7188F928C}|PROYECTO FINAL\\PROYECTO FINAL.csproj|c:\\users\\isael\\onedrive\\desktop\\proyecto final\\proyecto final\\proyecto final\\mostrarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{20A3061F-F557-44FB-972A-18D7188F928C}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\isael\\OneDrive\\Desktop\\PROYECTO FINAL\\PROYECTO FINAL\\proyecto final\\mostrarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20A3061F-F557-44FB-972A-18D7188F928C}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\mostrarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A3061F-F557-44FB-972A-18D7188F928C}|PROYECTO FINAL\\PROYECTO FINAL.csproj|c:\\users\\isael\\onedrive\\desktop\\proyecto final\\proyecto final\\proyecto final\\mostrarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20A3061F-F557-44FB-972A-18D7188F928C}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\mostrarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +46,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "AgregarProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\isael\\OneDrive\\Desktop\\PROYECTO FINAL\\PROYECTO FINAL\\PROYECTO FINAL\\AgregarProducto.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\AgregarProducto.cs",
+              "ToolTip": "C:\\Users\\isael\\OneDrive\\Desktop\\PROYECTO FINAL\\PROYECTO FINAL\\PROYECTO FINAL\\AgregarProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PROYECTO FINAL\\AgregarProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T23:50:54.251Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\isael\\OneDrive\\Desktop\\PROYECTO FINAL\\PROYECTO FINAL\\PROYECTO FINAL\\Form1.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\Form1.cs",
+              "ToolTip": "C:\\Users\\isael\\OneDrive\\Desktop\\PROYECTO FINAL\\PROYECTO FINAL\\PROYECTO FINAL\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PROYECTO FINAL\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T23:42:03.155Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MostrarProductos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\isael\\OneDrive\\Desktop\\PROYECTO FINAL\\PROYECTO FINAL\\PROYECTO FINAL\\MostrarProductos.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\MostrarProductos.cs",
+              "ToolTip": "C:\\Users\\isael\\OneDrive\\Desktop\\PROYECTO FINAL\\PROYECTO FINAL\\PROYECTO FINAL\\MostrarProductos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PROYECTO FINAL\\MostrarProductos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:06:46.033Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MostrarProductos.cs",
               "DocumentMoniker": "C:\\Users\\isael\\OneDrive\\Desktop\\PROYECTO FINAL\\PROYECTO FINAL\\PROYECTO FINAL\\MostrarProductos.cs",
               "RelativeDocumentMoniker": "PROYECTO FINAL\\MostrarProductos.cs",
@@ -51,25 +95,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MostrarProductos.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\isael\\OneDrive\\Desktop\\PROYECTO FINAL\\PROYECTO FINAL\\PROYECTO FINAL\\MostrarProductos.cs",
-              "RelativeDocumentMoniker": "PROYECTO FINAL\\MostrarProductos.cs",
-              "ToolTip": "C:\\Users\\isael\\OneDrive\\Desktop\\PROYECTO FINAL\\PROYECTO FINAL\\PROYECTO FINAL\\MostrarProductos.cs [Dise\u00F1o]",
-              "RelativeToolTip": "PROYECTO FINAL\\MostrarProductos.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T00:06:46.033Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\isael\\OneDrive\\Desktop\\PROYECTO FINAL\\PROYECTO FINAL\\PROYECTO FINAL\\Form1.cs",
               "RelativeDocumentMoniker": "PROYECTO FINAL\\Form1.cs",
               "ToolTip": "C:\\Users\\isael\\OneDrive\\Desktop\\PROYECTO FINAL\\PROYECTO FINAL\\PROYECTO FINAL\\Form1.cs",
               "RelativeToolTip": "PROYECTO FINAL\\Form1.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAcwCgAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T00:12:43.396Z",
               "EditorCaption": ""
