@@ -30,7 +30,7 @@ namespace PROYECTO_FINAL
         // Abrir formulario para agregar productos
         private void agregarProductoToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            AgregarProducto form = new AgregarProducto();
+            AgregarProductos form = new AgregarProductos();
             form.MdiParent = this;
             form.Show();
         }
@@ -54,7 +54,7 @@ namespace PROYECTO_FINAL
         // Abrir formulario para eliminar productos
         private void eliminarProductoToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            EliminarProducto form = new EliminarProducto();
+            EliminarProductos form = new EliminarProductos();
             form.MdiParent = this;
             form.Show();
         }

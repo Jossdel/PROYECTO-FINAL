@@ -29,3 +29,5 @@ C:\Users\DELL\Documents\GitHub\PROYECTO-FINAL\PROYECTO FINAL\PROYECTO FINAL\obj\
 >>>>>>> b502b3f39e95f010b88241f5ff00b14af543100f
 C:\Users\isael\OneDrive\Desktop\PROYECTO FINAL\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.AgregarProducto.resources
 C:\Users\isael\OneDrive\Desktop\PROYECTO FINAL\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.EliminarProducto.resources
+C:\Users\isael\OneDrive\Desktop\PROYECTO FINAL\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.AgregarProductos.resources
+C:\Users\isael\OneDrive\Desktop\PROYECTO FINAL\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.EliminarProductos.resources

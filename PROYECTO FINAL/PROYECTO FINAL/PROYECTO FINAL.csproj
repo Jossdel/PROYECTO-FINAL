@@ -46,6 +46,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AgregarProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgregarProductos.Designer.cs">
+      <DependentUpon>AgregarProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EliminarProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EliminarProductos.Designer.cs">
+      <DependentUpon>EliminarProductos.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -58,18 +70,6 @@
     <Compile Include="ActualizarProducto.Designer.cs">
       <DependentUpon>ActualizarProducto.cs</DependentUpon>
     </Compile>
-    <Compile Include="AgregarProducto.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="AgregarProducto.Designer.cs">
-      <DependentUpon>AgregarProducto.cs</DependentUpon>
-    </Compile>
-    <Compile Include="EliminarProducto.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="EliminarProducto.Designer.cs">
-      <DependentUpon>EliminarProducto.cs</DependentUpon>
-    </Compile>
     <Compile Include="MostrarProductos.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -78,11 +78,11 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="AgregarProducto.resx">
-      <DependentUpon>AgregarProducto.cs</DependentUpon>
+    <EmbeddedResource Include="AgregarProductos.resx">
+      <DependentUpon>AgregarProductos.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="EliminarProducto.resx">
-      <DependentUpon>EliminarProducto.cs</DependentUpon>
+    <EmbeddedResource Include="EliminarProductos.resx">
+      <DependentUpon>EliminarProductos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
@@ -92,18 +92,18 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
-    </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
@@ -114,13 +114,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\cross_14793290.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\tag.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\trash-bin.png" />
+    <Folder Include="Resources\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

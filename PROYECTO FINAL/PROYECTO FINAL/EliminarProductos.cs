@@ -4,11 +4,11 @@ using System.Windows.Forms;
 
 namespace PROYECTO_FINAL
 {
-    public partial class EliminarProducto : Form
+    public partial class EliminarProductos : Form
     {
         private List<string> listaProductos;
 
-        public EliminarProducto()
+        public EliminarProductos()
         {
             InitializeComponent();
             CargarProductos();
@@ -36,6 +36,11 @@ namespace PROYECTO_FINAL
             {
                 MessageBox.Show("Seleccione un producto para eliminar.");
             }
+        }
+
+        private void EliminarProducto_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

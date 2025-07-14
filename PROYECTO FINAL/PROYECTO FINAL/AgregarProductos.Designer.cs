@@ -1,6 +1,6 @@
-﻿namespace PROYECTO_FINAL
+﻿﻿namespace PROYECTO_FINAL
 {
-    partial class AgregarProducto
+    partial class AgregarProductos
     {
         /// <summary>
         /// Required designer variable.
@@ -35,7 +35,7 @@
             // 
             this.btnAgregarproducto.BackColor = System.Drawing.SystemColors.MenuBar;
             this.btnAgregarproducto.Location = new System.Drawing.Point(28, 286);
-            this.btnAgregarproducto.Margin = new System.Windows.Forms.Padding(7, 7, 7, 7);
+            this.btnAgregarproducto.Margin = new System.Windows.Forms.Padding(7);
             this.btnAgregarproducto.Name = "btnAgregarproducto";
             this.btnAgregarproducto.Size = new System.Drawing.Size(350, 103);
             this.btnAgregarproducto.TabIndex = 0;
@@ -45,10 +45,11 @@
             // txtnombreproducto
             // 
             this.txtnombreproducto.Location = new System.Drawing.Point(28, 203);
-            this.txtnombreproducto.Margin = new System.Windows.Forms.Padding(7, 7, 7, 7);
+            this.txtnombreproducto.Margin = new System.Windows.Forms.Padding(7);
             this.txtnombreproducto.Name = "txtnombreproducto";
             this.txtnombreproducto.Size = new System.Drawing.Size(478, 35);
             this.txtnombreproducto.TabIndex = 1;
+            this.txtnombreproducto.TextChanged += new System.EventHandler(this.txtnombreproducto_TextChanged);
             // 
             // label1
             // 
@@ -64,7 +65,7 @@
             // 
             this.comboBoxCategoria.FormattingEnabled = true;
             this.comboBoxCategoria.Location = new System.Drawing.Point(590, 201);
-            this.comboBoxCategoria.Margin = new System.Windows.Forms.Padding(7, 7, 7, 7);
+            this.comboBoxCategoria.Margin = new System.Windows.Forms.Padding(7);
             this.comboBoxCategoria.Name = "comboBoxCategoria";
             this.comboBoxCategoria.Size = new System.Drawing.Size(277, 37);
             this.comboBoxCategoria.TabIndex = 3;
@@ -79,9 +80,8 @@
             this.label2.Size = new System.Drawing.Size(118, 29);
             this.label2.TabIndex = 4;
             this.label2.Text = "Categoría";
-            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
-            // AgregarProducto
+            // AgregarProductos
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(14F, 29F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -91,10 +91,9 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.txtnombreproducto);
             this.Controls.Add(this.btnAgregarproducto);
-            this.Margin = new System.Windows.Forms.Padding(7, 7, 7, 7);
-            this.Name = "AgregarProducto";
-            this.Text = "FrmAgregarProducto";
-            this.Load += new System.EventHandler(this.AgregarProducto_Load);
+            this.Margin = new System.Windows.Forms.Padding(7);
+            this.Name = "AgregarProductos";
+            this.Text = "Agregar Productos";
             this.ResumeLayout(false);
             this.PerformLayout();
 

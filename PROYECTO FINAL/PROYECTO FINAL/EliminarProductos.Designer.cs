@@ -1,6 +1,6 @@
 ﻿namespace PROYECTO_FINAL
 {
-    partial class EliminarProducto
+    partial class EliminarProductos
     {
         /// <summary>
         /// Required designer variable.
@@ -45,7 +45,6 @@
             // 
             // buttonEliminar
             // 
-            this.buttonEliminar.Image = global::PROYECTO_FINAL.Properties.Resources.trash_bin;
             this.buttonEliminar.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.buttonEliminar.Location = new System.Drawing.Point(54, 251);
             this.buttonEliminar.Margin = new System.Windows.Forms.Padding(7);
@@ -75,6 +74,7 @@
             this.Margin = new System.Windows.Forms.Padding(7);
             this.Name = "EliminarProducto";
             this.Text = "FrmEliminarProducto";
+            this.Load += new System.EventHandler(this.EliminarProducto_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
