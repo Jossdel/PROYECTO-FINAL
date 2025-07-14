@@ -31,3 +31,17 @@ C:\Users\isael\OneDrive\Desktop\PROYECTO FINAL\PROYECTO FINAL\PROYECTO FINAL\obj
 C:\Users\isael\OneDrive\Desktop\PROYECTO FINAL\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.EliminarProducto.resources
 C:\Users\isael\OneDrive\Desktop\PROYECTO FINAL\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.AgregarProductos.resources
 C:\Users\isael\OneDrive\Desktop\PROYECTO FINAL\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.EliminarProductos.resources
+C:\Users\isael\OneDrive\Desktop\PROYECTO-FINAL\PROYECTO FINAL\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.exe.config
+C:\Users\isael\OneDrive\Desktop\PROYECTO-FINAL\PROYECTO FINAL\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.exe
+C:\Users\isael\OneDrive\Desktop\PROYECTO-FINAL\PROYECTO FINAL\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.pdb
+C:\Users\isael\OneDrive\Desktop\PROYECTO-FINAL\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.csproj.AssemblyReference.cache
+C:\Users\isael\OneDrive\Desktop\PROYECTO-FINAL\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.exe.config
+C:\Users\isael\OneDrive\Desktop\PROYECTO-FINAL\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.AgregarProductos.resources
+C:\Users\isael\OneDrive\Desktop\PROYECTO-FINAL\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.EliminarProductos.resources
+C:\Users\isael\OneDrive\Desktop\PROYECTO-FINAL\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.FrmPrincipal.resources
+C:\Users\isael\OneDrive\Desktop\PROYECTO-FINAL\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.MostrarProductos.resources
+C:\Users\isael\OneDrive\Desktop\PROYECTO-FINAL\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Properties.Resources.resources
+C:\Users\isael\OneDrive\Desktop\PROYECTO-FINAL\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.csproj.GenerateResource.cache
+C:\Users\isael\OneDrive\Desktop\PROYECTO-FINAL\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.csproj.CoreCompileInputs.cache
+C:\Users\isael\OneDrive\Desktop\PROYECTO-FINAL\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.exe
+C:\Users\isael\OneDrive\Desktop\PROYECTO-FINAL\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.pdb
